@@ -1,0 +1,29 @@
+# Build output
+build/
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# IDF cache
+.cache/
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+#backup
+sdkconfig.old
